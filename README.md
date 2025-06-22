@@ -22,5 +22,6 @@ Detta projekt är en del av Vecka 4 där vi lär oss grunderna i layout, typogra
 ## 🖼️ Skärmdump
 
 ![Skärmdump](screenshot4.png)
+![Validering av HTML](validering-uppgift4.png)
 
 ## 👤 Av: Özgur (Tasman1984)
