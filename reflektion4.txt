@@ -1,0 +1,5 @@
+I denna uppgift lärde jag mig grunderna i Bootstrap. Jag använde Bootstrap via CDN vilket gjorde det enkelt att komma igång utan att installera något.
+
+Jag byggde en responsiv sida med rubrik, varningsruta, knapp och två kolumner. Jag använde även ett Bootstrap-kort (card) och lade till typsnitt från Google Fonts.
+
+Jag har också använt designprinciper som kontrast, centrering, spacing och läsbarhet. Allt jag gjort testades i webbläsaren och fungerar responsivt. Jag har validerat min kod med W3C-validatorn.
